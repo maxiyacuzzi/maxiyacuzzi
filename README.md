@@ -15,6 +15,7 @@ Builder de productos reales en TypeScript. Docente de Python. Estudiante de Inge
 | [Quiniela](https://github.com/maxiyacuzzi/Quiniela) | Resultados de quiniela en tiempo real con scraping automático | TypeScript · Supabase |
 | [RivadaviaApp](https://github.com/maxiyacuzzi/RivadaviaApp) | App web con autenticación y base de datos en tiempo real | TypeScript · React · Supabase |
 | LEXO *(privado)* | SaaS que valida recibos de Mercado Pago vía WhatsApp para prevenir fraude de transferencias falsas | TypeScript |
+| [Origami](https://github.com/origami-io) *(tesis UTN · privado)* | Plataforma de feedback gastronómico con algoritmo adaptativo multivariable que optimiza encuestas en tiempo real | TypeScript · Java |
 
 ---
 
