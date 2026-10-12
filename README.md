@@ -1,7 +1,7 @@
 # Hola, soy Maxi 👋
 
 **Senior QA Engineer** con 5+ años de experiencia en automatización, testing de APIs y microservicios.  
-Builder de productos reales en TypeScript. Docente de Python. Ingenierío en Sistemas en UTN.  
+Builder de productos reales en TypeScript. Docente de Python. Ingeniero en Sistemas de Información de la UTN.  
 📍 Córdoba, Argentina
 
 ---
